@@ -1,4 +1,4 @@
-                                                                Hi 👋, I'm Khushi Tomar  
+  **Hi 👋, I'm Khushi Tomar**
 
 ✨ Frontend Developer | Full-Stack Aspirant 
 
@@ -12,8 +12,7 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 - 🌱 Diving into **Node.js, Express.js & MongoDB**
 - 🧩 Actively participating in **Open Source**
 - 🧠 Practicing **DSA regularly**
-- ✅ Solved **250+ problems on LeetCode**
-- 🏁 Also practicing on **CodeChef**
+- ✅ Solved **250+ problems on LeetCode and codechef**
 
 **Built MiniMoo:** AI chatbot powered by the OpenAI API. 
 **Strengths:** React,JavaScript,Web design,DSA(cpp) with 250+ Leetcode
@@ -22,9 +21,11 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 ---
 
 ## 🧰 Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,c,cpp,java,python,nodejs,git,github,docker,vscode,Apache tomcat" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,java,python,nodejs,git,github,docker,vscode" />
 </p>
+
 
 ---
 ## 📊 Coding Profiles
@@ -44,9 +45,6 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushi-tomar-251478329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Khushi717" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:khushitomar698@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
