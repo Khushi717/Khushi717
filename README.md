@@ -1,16 +1,57 @@
-## Hi there 👋
+                                                                Hi 👋, I'm Khushi Tomar  
 
-<!--
-**Khushi717/Khushi717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Frontend Developer | Full-Stack Aspirant 
 
-Here are some ideas to get you started:
+I’m a **Frontend Developer** who enjoys building clean, responsive, and dynamic user interfaces.  
+Currently, I’m **diving into backend technologies** to grow into a full-stack engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Frontend Developer who is currently learning **full-stack development(MERN Stack)**.
+- 🌱 Diving into **Node.js, Express.js & MongoDB**
+- 🧩 Actively participating in **Open Source**
+- 🧠 Practicing **DSA regularly**
+- ✅ Solved **250+ problems on LeetCode**
+- 🏁 Also practicing on **CodeChef**
+
+**Built MiniMoo:** AI chatbot powered by the OpenAI API. 
+**Strengths:** React,JavaScript,Web design,DSA(cpp) with 250+ Leetcode
+**Vision:** Become a **Full-Stack Engineer** who builds scalable, user-focused products.
+
+---
+
+## 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,c,cpp,java,python,nodejs,git,github,docker,vscode,Apache tomcat" />
+</p>
+
+---
+## 📊 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/KhushiTomar_2024/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-tomar-251478329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Khushi717" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:khushitomar698@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+💡 *Learning, building, and improving every day.*
