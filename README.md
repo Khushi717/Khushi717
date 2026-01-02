@@ -1,4 +1,4 @@
-  **Hi 👋, I'm Khushi Tomar**
+                                                                                                    **Hi 👋, I'm Khushi Tomar**
 
 ✨ Frontend Developer | Full-Stack Aspirant 
 
@@ -14,9 +14,10 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 - 🧠 Practicing **DSA regularly**
 - ✅ Solved **250+ problems on LeetCode and codechef**
 
-**Built MiniMoo:** AI chatbot powered by the OpenAI API. 
-**Strengths:** React,JavaScript,Web design,DSA(cpp) with 250+ Leetcode
-**Vision:** Become a **Full-Stack Engineer** who builds scalable, user-focused products.
+- 🤖 **Built:** MiniMoo – AI chatbot powered by the OpenAI API  
+- 💪 **Strengths:** React, JavaScript, Web Design, DSA (C++) with 25+ Leetcode
+- 🎯 **Vision:** Become a Full-Stack Engineer who builds scalable, user-focused products
+
 
 ---
 
