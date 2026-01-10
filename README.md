@@ -1,6 +1,6 @@
-  **Hi 👋, I'm Khushi Tomar**
-
-✨ Frontend Developer | Full-Stack Aspirant 
+<h1 align="center">👋 I AM KHUSHI TOMAR</h1>
+<h3 align="center">Frontend Developer | Full-Stack Aspirant</h3>
+ 
 
 I’m a **Frontend Developer** who enjoys building clean, responsive, and dynamic user interfaces.  
 Currently, I’m **diving into backend technologies** to grow into a full-stack engineer.
