@@ -12,7 +12,7 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 - 🌱 Diving into **Node.js, Express.js & MongoDB**
 - 🧩 Actively participating in **Open Source**
 - 🧠 Practicing **DSA regularly**
-- ✅ Solved **250+ problems on LeetCode and codechef**
+- ✅ Solved **300+ problems on LeetCode and codechef**
 
 ---
 
