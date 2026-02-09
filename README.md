@@ -16,8 +16,8 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 
 ---
 
-- 🤖 **Built:** MiniMoo – AI chatbot powered by the OpenAI API  
-- 💪 **Strengths:** React, JavaScript, Web Design, DSA (C++) with 250+ Leetcode
+- 🤖 **Built:** Convobot – AI chatbot powered by the OpenAI API  
+- 💪 **Strengths:** React, JavaScript, Web Design, DSA (C++) with 300+ Leetcode
 - 🎯 **Vision:** Become a Full-Stack Engineer who builds scalable, user-focused products
 
 
