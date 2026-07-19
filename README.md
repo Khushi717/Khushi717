@@ -32,13 +32,13 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 
 ---
 ## 📊 Coding Profiles
-
 <p align="center">
   <a href="https://leetcode.com/u/KhushiTomar_2024/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
   <a href="https://codeforces.com/profile/khushi717" target="_blank">
-    <img src="https://codeforces.com/codeforces.org/s/39874/images/codeforces-sponsored-by-ton.png" />
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
   <a href="https://www.linkedin.com/in/khushi-tomar-251478329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:khushitomar698@gmail.com">
+  <a href="mailto:khushitomar054@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
