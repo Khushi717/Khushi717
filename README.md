@@ -37,7 +37,7 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
   <a href="https://leetcode.com/u/KhushiTomar_2024/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/" target="_blank">
+  <a href="https://codeforces.com/profile/khushi717" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
