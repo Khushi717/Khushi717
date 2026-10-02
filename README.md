@@ -1,5 +1,5 @@
 <h1 align="center">👋 I AM KHUSHI TOMAR</h1>
-<h3 align="center">Frontend Developer | Full-Stack Aspirant</h3>
+<h3 align="center">Full Stack Developer</h3>
  
 
 I’m a **Frontend Developer** who enjoys building clean, responsive, and dynamic user interfaces.  
@@ -12,7 +12,7 @@ Currently, I’m **diving into backend technologies** to grow into a full-stack 
 - 🌱 Diving into **Node.js, Express.js & MongoDB**
 - 🧩 Actively participating in **Open Source**
 - 🧠 Practicing **DSA regularly**
-- ✅ Solved **300+ problems on LeetCode and codechef**
+- ✅ Solved **500+ problems on LeetCode and codechef**
 
 ---
 
